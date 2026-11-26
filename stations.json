@@ -1,0 +1,101 @@
+[
+  {
+    "node_id": "6",
+    "custom_name": "NAHRIM Office",
+    "station_code": "NAHRIM-HQ-001",
+    "site_name": "NAHRIM",
+    "client_name": "NAHRIM",
+    "station_type": "Hydrology & Meteorology",
+    "latitude": 3.013500,
+    "longitude": 101.706500,
+    "data_table_name": "data_nahrim_office"
+  },
+  {
+    "node_id": "1085",
+    "custom_name": "KL Pulapol",
+    "station_code": "NAHRIM-KL-PULAPOL",
+    "site_name": "NAHRIM",
+    "client_name": "NAHRIM",
+    "station_type": "Urban Runoff & Flow",
+    "latitude": 3.178800,
+    "longitude": 101.722500,
+    "data_table_name": "data_nahrim_pulapol"
+  },
+  {
+    "node_id": "1084",
+    "custom_name": "Johor Hospital Permai",
+    "station_code": "NAHRIM-JHR-PERMAI",
+    "site_name": "NAHRIM",
+    "client_name": "NAHRIM",
+    "station_type": "Water Level & Flow",
+    "latitude": 1.512600,
+    "longitude": 103.693400,
+    "data_table_name": "data_nahrim_jhr_permai"
+  },
+  {
+    "node_id": "1083",
+    "custom_name": "Johor JKN",
+    "station_code": "NAHRIM-JHR-JKN",
+    "site_name": "NAHRIM",
+    "client_name": "NAHRIM",
+    "station_type": "Hydrology & Meteorology",
+    "latitude": 1.488300,
+    "longitude": 103.761800,
+    "data_table_name": "data_nahrim_jhr_jkn"
+  },
+  {
+    "node_id": "1086",
+    "custom_name": "Kelantan Hospital Raja Perempuan Zainab",
+    "station_code": "NAHRIM-KTN-HRPZ",
+    "site_name": "NAHRIM",
+    "client_name": "NAHRIM",
+    "station_type": "Water Level & Flow",
+    "latitude": 6.126400,
+    "longitude": 102.245800,
+    "data_table_name": "data_nahrim_ktn_hrpz"
+  },
+  {
+    "node_id": "7",
+    "custom_name": "Kuala Tahan",
+    "station_code": "NAHRIM-PHG-KUALATAHAN",
+    "site_name": "NAHRIM",
+    "client_name": "NAHRIM",
+    "station_type": "River Basin Telemetry",
+    "latitude": 4.382800,
+    "longitude": 102.404200,
+    "data_table_name": "data_nahrim_kuala_tahan"
+  },
+  {
+    "node_id": "1102",
+    "custom_name": "Olak Lempit",
+    "station_code": "NAHRIM-SGR-OLAKLEMPIT",
+    "site_name": "NAHRIM",
+    "client_name": "NAHRIM",
+    "station_type": "Rainfall & Flow",
+    "latitude": 2.816700,
+    "longitude": 101.583300,
+    "data_table_name": "data_nahrim_olak_lempit"
+  },
+  {
+    "node_id": "8",
+    "custom_name": "Paya Indah Wetland",
+    "station_code": "NAHRIM-SGR-PAYAINDAH",
+    "site_name": "NAHRIM",
+    "client_name": "NAHRIM",
+    "station_type": "Wetland Hydrology",
+    "latitude": 2.862400,
+    "longitude": 101.636600,
+    "data_table_name": "data_nahrim_paya_indah"
+  },
+  {
+    "node_id": "1028",
+    "custom_name": "INSTUN",
+    "station_code": "NAHRIM-PRK-INSTUN",
+    "site_name": "NAHRIM",
+    "client_name": "NAHRIM",
+    "station_type": "Meteorological Array",
+    "latitude": 3.748300,
+    "longitude": 101.458900,
+    "data_table_name": "data_nahrim_instun"
+  }
+]
